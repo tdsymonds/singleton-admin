@@ -18,7 +18,9 @@ I appreciate that there are probably plenty of packages out there that offer sim
 Quick start
 -----------
 
-1. Install singleton-admin.
+1. Install singleton-admin::
+
+	pip install singleton-admin
 
 2. Add "singleton_admin" to your INSTALLED_APPS::
 
