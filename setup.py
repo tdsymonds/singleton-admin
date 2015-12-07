@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='singleton-admin',
-    version='0.1',
+    version='1.0.0',
     packages=['singleton_admin'],
     include_package_data=True,
     license='MIT License',  
@@ -18,6 +18,7 @@ setup(
     url='https://github.com/tdsymonds/singleton_admin',
     author='Tom Symonds',
     author_email='tdsymonds@hotmail.com',
+    keywords='admin singleton',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
