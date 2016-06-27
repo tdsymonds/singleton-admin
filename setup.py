@@ -15,7 +15,7 @@ setup(
     license='MIT License',  
     description='A Django app that will only allow one instance of a model to be created via the admin site.',
     long_description=README,
-    url='https://github.com/tdsymonds/singleton_admin',
+    url='https://github.com/tdsymonds/singleton-admin',
     author='Tom Symonds',
     author_email='tdsymonds@hotmail.com',
     keywords='admin singleton',
